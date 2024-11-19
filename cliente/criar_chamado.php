@@ -59,5 +59,6 @@ $colaboradores = $conn->query("SELECT id_colaborador, nome_colaborador FROM cola
 
         <button type="submit">Criar Chamado</button>
     </form>
+    <p>Já acabou por aqui? <a href="cliente.php"><button>Voltar</button></a></p>
 </body>
 </html>

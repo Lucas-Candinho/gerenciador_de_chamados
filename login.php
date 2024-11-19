@@ -40,6 +40,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         <button type="submit">Entrar</button>
     </form>
-    <p>Não tem uma conta? <a href="login.php"><button>Entre</button></a></p>
+    <p>Não tem uma conta? <a href="index.php"><button>Crie uma</button></a></p>
 </body>
 </html>
